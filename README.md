@@ -1,6 +1,6 @@
 # React19_todolist
 
-Our site is live now "react19-todo.netlify.app".
+Our site is live now "https://react19-todo.netlify.app/".
 
 This is a simple and interactive **To-Do List** application built using **React.js** and **Vite**. The project allows users to add, edit, delete, and mark tasks as completed. It is designed with a user-friendly interface and responsive layout.  
 
